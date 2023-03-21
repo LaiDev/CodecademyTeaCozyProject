@@ -162,3 +162,22 @@ h3{
 
     background-color: black; 
 }
+
+#contact
+{
+
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+h4
+{
+    font-size: 1.2rem;
+}
+
+h5
+{
+    font-size: .95rem;
+}
