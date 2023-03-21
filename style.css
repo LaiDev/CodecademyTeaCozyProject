@@ -9,6 +9,11 @@
     text-align: center;
 }
 
+h2
+{
+    font-size: 1.75rem;
+}
+
 body
 {
     margin: auto;
@@ -82,3 +87,30 @@ main {
     margin-bottom: 20px;
 }
 
+#featuredTea
+{
+    width: 1000px;
+    margin: 80px 0 100px;
+   
+}
+
+#featuredTea h4
+{
+    margin: 35px 0;
+}
+
+.gallery
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+
+#featuredTea img{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+}
